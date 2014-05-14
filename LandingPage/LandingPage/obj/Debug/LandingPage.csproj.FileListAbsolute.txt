@@ -1,0 +1,6 @@
+C:\work\LandingPage\LandingPage\bin\LandingPage.dll.config
+C:\work\LandingPage\LandingPage\bin\LandingPage.dll
+C:\work\LandingPage\LandingPage\bin\LandingPage.pdb
+C:\work\LandingPage\LandingPage\obj\Debug\LandingPage.csprojResolveAssemblyReference.cache
+C:\work\LandingPage\LandingPage\obj\Debug\LandingPage.dll
+C:\work\LandingPage\LandingPage\obj\Debug\LandingPage.pdb
